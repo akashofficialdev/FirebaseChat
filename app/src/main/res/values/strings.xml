@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FChat</string>
+    <string name="login_to_fchat">Login to F-Chat</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="welcome_to_fchat">Welcome to F-Chat</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248718394335",
+    "project_id": "com-pegasus-fchat",
+    "storage_bucket": "com-pegasus-fchat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248718394335:android:6ae22da0aad9805122ba6a",
+        "android_client_info": {
+          "package_name": "com.pegasus.fchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2c49seq9LOobSQ5lFaanzSE6DCPnpw6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
