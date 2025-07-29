@@ -30,7 +30,7 @@ FChat is a real-time chat application built using **Jetpack Compose** and **Fire
 
 | Login | Chat |
 |-------|------|
-| ![Login Screen](screenshots/login.png) | ![Chat Screen](screenshots/chat.png) |
+| ![Login Screen](login.png) | ![Chat Screen](chat.png) |
 
 ---
 
